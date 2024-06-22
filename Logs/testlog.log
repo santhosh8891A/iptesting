@@ -1,0 +1,27 @@
+2024-04-26 12:03:15,687 - orangeHRM -INFO - Maximize window size
+2024-04-26 12:03:15,693 - orangeHRM -INFO - enter username
+2024-04-26 12:03:15,694 - orangeHRM -INFO - enter password
+2024-04-26 12:03:15,694 - orangeHRM -INFO - click on login
+2024-04-26 12:03:15,696 - orangeHRM -INFO - Login Successfull
+2024-04-26 12:04:25,505 - orangeHRM -INFO - Maximize window size
+2024-04-26 12:04:25,511 - orangeHRM -INFO - enter username
+2024-04-26 12:04:25,512 - orangeHRM -INFO - enter password
+2024-04-26 12:04:25,512 - orangeHRM -INFO - click on login
+2024-04-26 12:04:25,513 - orangeHRM -INFO - Login Successfull
+2024-04-26 12:04:25,514 - orangeHRM -WARN - This is a first warning
+2024-04-26 12:05:50,659 - orangeHRM -INFO - Maximize window size
+2024-04-26 12:05:50,669 - orangeHRM -INFO - enter username
+2024-04-26 12:05:50,670 - orangeHRM -INFO - enter password
+2024-04-26 12:05:50,670 - orangeHRM -INFO - click on login
+2024-04-26 12:05:50,671 - orangeHRM -INFO - Login Successfull
+2024-04-26 12:05:50,673 - orangeHRM -WARN - This is a first warning
+2024-04-26 12:05:50,673 - orangeHRM -ERROR - This is a first warning
+2024-04-26 12:05:50,673 - orangeHRM -FATAL - This is a first warning
+2024-04-26 12:08:09,458 - orangeHRM -INFO - Maximize window size
+2024-04-26 12:08:09,544 - orangeHRM -INFO - enter username
+2024-04-26 12:08:09,544 - orangeHRM -INFO - enter password
+2024-04-26 12:08:09,545 - orangeHRM -INFO - click on login
+2024-04-26 12:08:09,545 - orangeHRM -INFO - Login Successfull
+2024-04-26 12:08:09,545 - orangeHRM -WARN - This is a first warning
+2024-04-26 12:08:32,098 - orangeHRM -ERROR - This is a first error
+2024-04-26 12:08:32,105 - orangeHRM -FATAL - This is a first warning

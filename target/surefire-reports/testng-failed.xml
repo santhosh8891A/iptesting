@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite614]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="TestFirst(failed)" verbose="0">
+    <classes>
+      <class name="testng.selenium.EdgeBR">
+        <methods>
+          <include name="openChromeBr"/>
+        </methods>
+      </class> <!-- testng.selenium.EdgeBR -->
+    </classes>
+  </test> <!-- TestFirst(failed) -->
+</suite> <!-- Failed suite [Suite614] -->
